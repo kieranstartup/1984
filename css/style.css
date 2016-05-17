@@ -42,11 +42,11 @@ body {
     font-weight: bold;
 }
 
-.one-heading{
-      margin-top: 111px;
+.one-heading {
+    margin-top: 111px;
     text-align: center;
     font-size: 30px;
-    font-weight: bold;  
+    font-weight: bold;
 }
 
 .page {
@@ -75,5 +75,42 @@ body {
 
 .text-box.first-chapter {
     margin-top: 36px;
+}
 
-    }
+.book-title {
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1px;
+    word-spacing: 0.3px;
+    left: 90px;
+    top: 675px;
+    position: absolute;
+}
+
+.page-number {
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1px;
+    word-spacing: 0.3px;
+    right: 90px;
+    top: 675px;
+    position: absolute;
+}
+
+img{
+    width: 70%;
+    position: absolute;
+}
+
+
+/*.random-div {
+    position: absolute;
+    width: 100%;
+}
+
+.random {
+    width: 30%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}*/
