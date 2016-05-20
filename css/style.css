@@ -142,20 +142,250 @@ span.italic {
     letter-spacing: 0.1px;
 }
 
-img {
-    width: 70%;
+/*================================================
+=============== IMAGES ===========================
+================================================*/
+
+
+.popups{
     position: absolute;
 }
 
-
-/*.random-div {
-    position: absolute;
-    width: 100%;
-}
-
-.random {
+/*------------------------------------------------*/
+/*------------ Page 3 ----------------------------*/
+/*------------------------------------------------*/
+#p3-beauty {
     width: 30%;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%);
-}*/
+    margin-top: 320px;
+    margin-left: 30px;
+}
+
+/*------------------------------------------------*/
+/*------------ Page 4 ----------------------------*/
+/*------------------------------------------------*/
+#p4-my-5{
+width: 18%;
+    margin-top: 330px;
+    margin-left: 200px;
+}
+#p4-new-series {
+    width: 30%;
+    margin-top: 356px;
+    margin-left: 200px;
+}
+
+/*------------------------------------------------*/
+/*------------ Page 5 ----------------------------*/
+/*------------------------------------------------*/
+
+#p5-location {
+    width: 39%;
+    margin-top: 230px;
+    margin-left: 130px;
+}
+#p5-flights {
+    width: 85%;
+    margin-left: 180px;
+    margin-top: 413px;
+}
+
+/*------------------------------------------------*/
+/*------------ Page 6 ----------------------------*/
+/*------------------------------------------------*/
+
+#p6-amazon {
+    width: 50%;
+    margin-left: 164px;
+    margin-top: 80px;
+}
+#p6-bikini {
+    width: 75%;
+    margin-top: 186px;
+    margin-left: 149px;
+}
+#p6-match {
+    width: 35%;
+    margin-top: 440px;
+}
+
+/*------------------------------------------------*/
+/*------------ Page 7 ----------------------------*/
+/*------------------------------------------------*/
+#p7-customers {
+    width: 70%;
+    margin-left: -60px;
+    margin-top: 30px;
+}
+#p7-microphone {
+    width: 43%;
+    margin-top: 220px;
+    margin-left: 150px;
+}
+#p7-reviews {
+    width: 35%;
+    margin-left: 370px;
+}
+
+/*------------------------------------------------*/
+/*------------ Page 8 ----------------------------*/
+/*------------------------------------------------*/
+
+#p8-history {
+    width: 43%;
+    margin-top: 230px;
+    margin-left: 150px;
+}
+#p8-moleskins {
+    width: 50%;
+    margin-top: 310px;
+    margin-left: 320px;
+}
+
+
+/*------------------------------------------------*/
+/*------------ Page 9 ----------------------------*/
+/*------------------------------------------------*/
+#p9-moleskins {
+    width: 50%;
+    margin-top: 310px;
+    margin-left: 70px;
+}
+#p9-1984 {
+    width: 47%;
+    margin-top: 168px;
+    margin-left: 140px;
+}
+#p9-webcam {
+    width: 43%;
+    margin-top: 430px;
+    margin-left: 149px;
+}
+/*------------------------------------------------*/
+/*------------ Page 10 ----------------------------*/
+/*------------------------------------------------*/
+
+#p10-contacts {
+    width: 43%;
+    margin-top: 270px;
+    margin-left: 149px;
+}
+#p10-reviews {
+    width: 50%;
+    margin-top: 20px;
+}
+#p10-match {
+    width: 32%;
+    margin-left: 180px;
+    margin-top: 581px;
+}
+#p10-titles {
+    width: 60%;
+    margin-top: 597px;
+}
+/*------------------------------------------------*/
+/*------------ Page 11 ----------------------------*/
+/*------------------------------------------------*/
+
+#p11-moleskins {
+    width: 55%;
+    margin-top: 250px;
+    margin-left: 280px;
+}
+
+#p11-buy {
+    width: 20%;
+    margin-top: 460px;
+    margin-left: 50px;
+}
+
+#p11-photos {
+    width: 35%;
+    margin-top: 474px;
+    margin-left: 160px;
+}
+
+#p11-properties {
+    width: 30%;
+    margin-left: 340px;
+}
+
+#p11-winston {
+    width: 50%;
+    margin-left: 130px;
+    margin-top: 150px;
+}
+
+#p11-won-1 {
+    width: 20%;
+    margin-top: 570px;
+    margin-left: 90px;
+}
+#p11-won-2 {
+    width: 20%;
+    margin-top: 570px;
+    margin-left: 150px;
+}
+#p11-won-3 {
+    width: 20%;
+    margin-top: 570px;
+    margin-left: 210px;
+}
+#p11-won-4 {
+    width: 20%;
+    margin-top: 570px;
+    margin-left: 270px;
+}
+#p11-won-5 {
+    width: 20%;
+    margin-top: 570px;
+    margin-left: 330px;
+}
+#p11-won-6 {
+    width: 20%;
+    margin-top: 570px;
+margin-left: 390px;
+}
+
+/*------------------------------------------------*/
+/*------------ Page 12 ----------------------------*/
+/*------------------------------------------------*/
+
+#p12-location {
+    width: 40%;
+    margin-top: 450px;
+    margin-left: 290px;
+}
+
+#p12-match {
+    width: 45%;
+    margin-top: 140px;
+    margin-left: 180px;
+}
+
+#p12-exclamation-1 {
+    width: 20%;
+    margin-left: 330px;
+    margin-top: 100px;
+}
+#p12-exclamation-2 {
+width: 20%;
+    margin-left: 140px;
+    margin-top: 570px;
+}
+#p12-spyware-1 {
+    width: 20%;
+    margin-top: 420px;
+    margin-left: 240px;
+}
+
+#p12-spyware-2 {
+    width: 20%;
+    margin-top: 380px;
+    margin-left: 200px;
+}
+
+#p12-system {
+    width: 20%;
+    margin-top: 280px;
+    margin-left: 100px;
+}
