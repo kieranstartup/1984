@@ -427,3 +427,37 @@ width: 20%;
 /*------------ Page 14 ----------------------------*/
 /*------------------------------------------------*/
 
+#p14-small {
+    width: 30%;
+    margin-top: 200px;
+    margin-left: 360px;
+}
+
+#p14-decorations {
+    width: 40%;
+    margin-left: 220px;
+    margin-top: 470px;
+}
+
+#p14-series {
+    width: 30%;
+    margin-top: 540px;
+    margin-left: 50px;
+}
+
+#p14-customer {
+    width: 30%;
+    margin-left: 240px;
+}
+
+#p14-balloons {
+    width: 100%;
+    margin-left: 32px;
+    margin-top: 130px;
+}
+
+#p14-buy-now {
+    width: 16%;
+    margin-top: 320px;
+    margin-left: 120px;
+}
