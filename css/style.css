@@ -542,3 +542,13 @@ width: 20%;
     margin-top: 200px;
     margin-left: 50px;
 }
+
+
+.blink {
+opacity: 0;
+/*display: inline-block;
+*/}
+
+/*.blinking-popup{
+position: absolute;
+}*/
