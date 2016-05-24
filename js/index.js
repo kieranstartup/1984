@@ -127,7 +127,7 @@ jQuery(document).ready(function() {
 
     /////////////// Exiting / Hiding Popups ///////////////////
     jQuery(document.body).on('touchstart', '.popups', function() { //Change to Touchstart
-        jQuery(this).remove();
+        jQuery(this).hide();
     });
 
 

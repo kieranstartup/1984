@@ -56,8 +56,8 @@ body {
     position: relative;
     height: 767px;
     width: 526px;
-    border: 1px solid black;
-    left: 50%;
+/*    border: 1px solid black;
+*/    left: 50%;
     -webkit-transform: translate3d(-50%, 0, 0);
     transform: translate3d(-50%, 0, 0);
 }
